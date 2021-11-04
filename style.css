@@ -1,3 +1,7 @@
 div {
     width: auto;
 }
+
+.body {
+    background-color: aqua;
+}
